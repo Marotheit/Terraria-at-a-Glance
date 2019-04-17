@@ -8,6 +8,11 @@ body{
 	color: #404040;
 }
 
+body input{
+	position: absolute;
+	left: -9999px;
+}
+
 
 
 /* -- Animations -- */
@@ -161,7 +166,7 @@ body{
 	border-radius: 4px;
 	text-align: center;
 	padding: 16px 32px;
-	margin: 4px 2px 0 20px;
+	margin: 4px 2px 10px 20px;
 	animation: fade_in 0.4s;
 	cursor: pointer;
 	display: none;
@@ -170,6 +175,26 @@ body{
 #show_build_button:hover{
 	color: white;
 	background-color: #008cba;
+}
+
+#create_link_button{
+	color: black;
+	font-size: 16px;
+	text-decoration: none;
+	background-color: white;
+	border: 2px solid #663399;
+	border-radius: 4px;
+	text-align: center;
+	padding: 16px 32px;
+	margin: 4px 2px 0 20px;
+	animation: fade_in 0.4s;
+	cursor: pointer;
+	display: none;
+}
+
+#create_link_button:hover{
+	color: white;
+	background-color: #663399;
 }
 
 
@@ -369,6 +394,17 @@ body.dark #show_build_button{
 body.dark #show_build_button:hover{
 	color: black;
 	background-color: #008cba;
+}
+
+body.dark #create_link_button{
+	color: white;
+	font-size: 16px;
+	background-color: #292929;
+}
+
+body.dark #create_link_button:hover{
+	color: black;
+	background-color: #663399;
 }
 
 body.dark #relevant_build #title a{

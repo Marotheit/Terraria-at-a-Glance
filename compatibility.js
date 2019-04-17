@@ -11,6 +11,7 @@ $(document).ready(function(){
 			$('input:radio[name=progression]:checked').prop('checked', false);
 			$("#content_selection").css("display", "block");
 			$("#show_build_button").css("display", "none");
+			$("#create_link_button").css("display", "none");
 		}
 		if(this.value == 'calamity_mod'){
 			$("input[type=radio][value=bard]").attr("disabled",true);
@@ -23,6 +24,7 @@ $(document).ready(function(){
 			$('input:radio[name=progression]:checked').prop('checked', false);
 			$("#content_selection").css("display", "block");
 			$("#show_build_button").css("display", "none");
+			$("#create_link_button").css("display", "none");
 		}
 		if(this.value == 'spirit_mod'){
 			$("input[type=radio][value=bard]").attr("disabled",true);
@@ -35,6 +37,7 @@ $(document).ready(function(){
 			$('input:radio[name=progression]:checked').prop('checked', false);
 			$("#content_selection").css("display", "block");
 			$("#show_build_button").css("display", "none");
+			$("#create_link_button").css("display", "none");
 		}
 		if(this.value == 'super_terraria_world'){
 			$("input[type=radio][value=bard]").attr("disabled",true);
@@ -47,6 +50,7 @@ $(document).ready(function(){
 			$('input:radio[name=progression]:checked').prop('checked', false);
 			$("#content_selection").css("display", "block");
 			$("#show_build_button").css("display", "none");
+			$("#create_link_button").css("display", "none");
 		}
 		if(this.value == 'thorium_mod'){
 			$("input[type=radio][value=bard]").attr("disabled",false);
@@ -59,6 +63,7 @@ $(document).ready(function(){
 			$('input:radio[name=progression]:checked').prop('checked', false);
 			$("#content_selection").css("display", "block");
 			$("#show_build_button").css("display", "none");
+			$("#create_link_button").css("display", "none");
 		}
 	});
 });
@@ -72,5 +77,6 @@ $(document).ready(function(){
 $(document).ready(function(){
 	$('input:radio[name=progression]').change(function(){
 		$('#show_build_button').css("display", "block");
+		$('#create_link_button').css("display", "block");
 	});
 });
