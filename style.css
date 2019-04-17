@@ -164,7 +164,7 @@ body{
 	margin: 4px 2px 12px 20px;
 	animation: fade_in 0.4s;
 	cursor: pointer;
-	display: hidden;
+	display: none;
 }
 
 #show_build_button:hover{
@@ -184,7 +184,7 @@ body{
 	margin: 4px 2px 0 20px;
 	animation: fade_in 0.4s;
 	cursor: pointer;
-	display: hidden;
+	display: none;
 }
 
 #create_link_button:hover{
