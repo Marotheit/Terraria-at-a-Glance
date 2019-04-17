@@ -6,7 +6,7 @@ $(document).ready(function(){
 		var progression = document.querySelector('input[name="progression"]:checked').value;
 		var results = 'https://marotheit.github.io/Terraria-at-a-Glance/?game='+game+'&content='+build+'&progression='+progression;
 		
-		var dummy = $('<input>').val(results).appendTo('body').select();
+		var dummy = $('<input>').val(results).appendTo('#hotlink_container').select();
 		document.execCommand('copy');
 	});
 });
