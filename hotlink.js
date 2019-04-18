@@ -10,3 +10,8 @@ $(document).ready(function(){
 		document.execCommand('copy');
 	});
 });
+
+function linkCopied(){
+	var create_link_button = document.getElementById("create_link_button");
+	create_link_button.innerHTML = "The link has been copied to your clipboard!"
+}
