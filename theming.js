@@ -1,6 +1,6 @@
 function localTheme(){
 	var currentTheme = localStorage.getItem('theme');
-	document.getElementById('page_style').setAttribute('href', "https://gitcdn.link/repo/Marotheit/Terraria-at-a-Glance/master/"currentTheme+"-style.css");
+	document.getElementById('page_style').setAttribute('href', "https://gitcdn.link/repo/Marotheit/Terraria-at-a-Glance/master/"+currentTheme+"-style.css");
 }
 
 function toggleTheme(){
