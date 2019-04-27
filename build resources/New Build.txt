@@ -1,0 +1,19 @@
+<div id="title"><a href="BUILD_LINK">GAME_CONTENT_PROGRESSION Build</a></div>
+<div id="weapons"><h1>Weapons</h1>
+	<a href="WEAPON_LINK"><img src="WEAPON_IMAGE">WEAPON_NAME</a>
+</div>
+<div id="armor"><h1>Armor</h1>
+	<a href="ARMOR_LINK"><img src="ARMOR_IMAGE">ARMOR_NAME</a>
+</div>
+<div id="accessories"><h1>Accessories</h1>
+	<a href="ACCESSORY_LINK"><img src="ACCESSORY_IMAGE">ACCESSORY_NAME</a>
+</div>
+<div id="buffs"><h1>Buffs</h1>ACCESSORY
+	<a href="BUFF_LINK"><img src="BUFF_IMAGE">BUFF_NAME</a>
+</div>
+<div id="bosses"><h1>Bosses</h1>
+	<a href="BOSS_LINK"><img src="BOSS_IMAGE">BOSS_NAME</a>
+</div>
+<div id="notes"><h1>Notes</h1>
+	NOTES_GO_HERE
+</div>
