@@ -8,7 +8,7 @@
 <div id="accessories"><h1>Accessories</h1>
 	<a href="ACCESSORY_LINK"><img src="ACCESSORY_IMAGE">ACCESSORY_NAME</a>
 </div>
-<div id="buffs"><h1>Buffs</h1>ACCESSORY
+<div id="buffs"><h1>Buffs</h1>
 	<a href="BUFF_LINK"><img src="BUFF_IMAGE">BUFF_NAME</a>
 </div>
 <div id="bosses"><h1>Bosses</h1>
