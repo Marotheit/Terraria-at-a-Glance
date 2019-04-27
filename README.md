@@ -10,11 +10,11 @@
 ## How do I contribute?
 Terraria at a Glance is entirely open-source and is available for anyone to modify. You can download the project from the [project page](https://github.com/Marotheit/Terraria-at-a-Glance). If you see something that needs to be fixed or could be done better, submit a commit and I'll look into it!
 
-Additionally, see [Coming Soon!](https://icons8.com/) if you would like an in-depth guide on creating or changing a build.
+Additionally, see [Creating a Build](https://github.com/Marotheit/Terraria-at-a-Glance/wiki/Creating-a-Build) if you would like an in-depth guide on creating or changing a build.
 
 ## Additional Pages
 
-* Coming Soon!
+* [Creating a Build](https://github.com/Marotheit/Terraria-at-a-Glance/wiki/Creating-a-Build)
 
 ## License
 Terraria at a Glance is published under the [MIT License](https://choosealicense.com/licenses/mit/). Please see [License.md](https://github.com/Marotheit/Terraria-at-a-Glance/blob/master/LICENSE) for more details.
