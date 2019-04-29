@@ -14,6 +14,9 @@
 <div id="bosses"><h1>Bosses</h1>
 	<a href="BOSS_LINK"><img src="BOSS_IMAGE">BOSS_NAME</a>
 </div>
-<div id="notes"><h1>Notes</h1>
+<div id="notes">
+<div id="build_author">BUILD_AUTHOR</div>
+<div id="build_version">GAME_VERSION</div>
+<h1>Notes</h1>
 	NOTES_GO_HERE
 </div>
