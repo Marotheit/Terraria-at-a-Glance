@@ -145,10 +145,12 @@ body{
 
 #content_selection{
 	animation: fade_in 0.4s;
+	display: none;
 }
 
 #progression_selection{
 	animation: fade_in 0.4s;
+	display: none;
 }
 
 #show_build_button{
@@ -162,6 +164,7 @@ body{
 	margin: 4px 2px 12px 20px;
 	animation: fade_in 0.4s;
 	cursor: pointer;
+	display: none;
 }
 
 #show_build_button:hover{
@@ -169,22 +172,28 @@ body{
 	background-color: #008cba;
 }
 
-#submit_build_button{
+#create_link_button{
 	color: #19191a;
 	font-size: 12px;
 	text-decoration: none;
 	border: 2px solid #663399;
 	border-radius: 4px;
 	text-align: center;
-	padding: 8px 26px 8px 25px;
+	padding: 8px 16px;
 	margin: 4px 2px 0 20px;
 	animation: fade_in 0.4s;
 	cursor: pointer;
+	display: none;
 }
 
-#submit_build_button:hover{
+#create_link_button:hover{
 	color: #f9f9fa;
 	background-color: #663399;
+}
+
+#hotlink_container{
+	position: absolute;
+	right: 8000px;
 }
 
 
