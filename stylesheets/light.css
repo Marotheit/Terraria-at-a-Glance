@@ -270,6 +270,12 @@ body{
 	margin-top: 12px;
 }
 
+#relevant_build #mixed_build_link{
+	font-size: 10px;
+	position: absolute;
+	margin-top: 24px;
+}
+
 #relevant_build #notes{
 	color: #696969;
 	background-color: #ededf0;
