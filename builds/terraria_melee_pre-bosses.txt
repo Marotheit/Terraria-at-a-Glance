@@ -1,6 +1,7 @@
 <div id="title"><a href="https://terraria.gamepedia.com/Guide:Class_setups#Pre-Bosses">Terraria Melee Pre-Bosses Build</a></div>
 <div id="weapons"><h1>Weapons</h1>
 	<a href="https://terraria.gamepedia.com/Wooden_Sword"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Wooden%20Sword.png">Wooden Sword</a>
+	<a href="https://terraria.gamepedia.com/Cactus_Sword"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Cactus%20Sword.png">Cactus Sword</a>
 	<a href="https://terraria.gamepedia.com/Trident"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Trident.png">Trident</a>
 	<a href="https://terraria.gamepedia.com/Wooden_Boomerang"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Wooden%20Boomerang.png">Wooden Boomerang</a>
 	<a href="https://terraria.gamepedia.com/Enchanted_Boomerang"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Enchanted%20Boomerang.png">Enchanted Boomerang</a>
