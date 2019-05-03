@@ -10,6 +10,7 @@
 <div id="armor"><h1>Armor</h1>
 	<a href="https://terraria.gamepedia.com/Gold_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Gold%20armor.png">Gold armor</a>
 	<a href="https://terraria.gamepedia.com/Platinum_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Platinum%20armor.png">Platinum armor</a>
+	<a href="https://terraria.gamepedia.com/Crimson_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Crimson%20armor.png">Crimson armor</a>
 	<a href="https://terraria.gamepedia.com/Shadow_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Shadow%20armor.png">Shadow armor</a>
 </div>
 <div id="accessories"><h1>Accessories</h1>
