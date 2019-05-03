@@ -12,6 +12,7 @@
 </div>
 <div id="accessories"><h1>Accessories</h1>
 	<a href="https://terraria.gamepedia.com/Shackle"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text">A Shackle with the Menacing prefix will be most relevant, but this early in the game, any accessories will do.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Shackle.png">Shackle</a>
+	<a href="https://terraria.gamepedia.com/Strings"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/White%20String.png">String</a>
 </div>
 <div id="buffs"><h1>Buffs</h1>
 	<a href="https://terraria.gamepedia.com/Campfires"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Cozy%20Fire.png">Cozy Fire</a>
