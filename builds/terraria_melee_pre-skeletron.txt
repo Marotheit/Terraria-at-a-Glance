@@ -21,6 +21,7 @@
 <div id="buffs"><h1>Buffs</h1>
 	<a href="https://terraria.gamepedia.com/Healing_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Healing%20Potion.png">Healing Potion</a>
 	<a href="https://terraria.gamepedia.com/Regeneration_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Regeneration%20Potion.png">Regeneration Potion</a>
+	<a href="https://terraria.gamepedia.com/Ironskin_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Ironskin%20Potion.png">Ironskin Potion</a>
 	<a href="https://terraria.gamepedia.com/Flask_of_Poison"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Flask%20of%20Poison.png">Flask of Poison</a>
 </div>
 <div id="bosses"><h1>Bosses</h1>
