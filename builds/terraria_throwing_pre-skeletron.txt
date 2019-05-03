@@ -1,0 +1,35 @@
+<div id="title"><a href="https://terraria.gamepedia.com/Guide:Class_setups#Pre-Bosses">Terraria Throwing Pre-Skeletron Build</a><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text">The Throwing build is not viable in Hardmode. After that point, this guide will be similar (if not identical) to the Ranged build.</span></div></div>
+<div id="weapons"><h1>Weapons</h1>
+	<a href="https://terraria.gamepedia.com/Bone_Javelin"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Bone%20Javelin.png">Bone Javelin</a>
+	<a href="https://terraria.gamepedia.com/Bone_Throwing_Knife"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Bone%20Throwing%20Knife.png">Bone Throwing Knife</a>
+	<a href="https://terraria.gamepedia.com/Beenade"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Beenade.png">Beenade</a>
+	<a href="https://terraria.gamepedia.com/Grenade"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Grenade.png">Grenade</a>
+	<a href="https://terraria.gamepedia.com/Ale_Tosser"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Ale%20Tosser.png">Ale Tosser</a>
+</div>
+<div id="armor"><h1>Armor</h1>
+	<a href="https://terraria.gamepedia.com/Gold_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Gold%20armor.png">Gold armor</a>
+	<a href="https://terraria.gamepedia.com/Platinum_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Platinum%20armor.png">Platinum armor</a>
+	<a href="https://terraria.gamepedia.com/Ninja_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Ninja%20armor.png">Ninja armor</a>
+	<a href="https://terraria.gamepedia.com/Fossil_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Fossil%20armor.png">Fossil armor</a>
+</div>
+<div id="accessories"><h1>Accessories</h1>
+	<a href="https://terraria.gamepedia.com/Shackle"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text">A Shackle with the Menacing prefix will be most relevant.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Shackle.png">Shackle</a>
+</div>
+<div id="buffs"><h1>Buffs</h1>
+	<a href="https://terraria.gamepedia.com/Healing_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Healing%20Potion.png">Healing Potion</a>
+	<a href="https://terraria.gamepedia.com/Regeneration_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Regeneration%20Potion.png">Regeneration Potion</a>
+	<a href="https://terraria.gamepedia.com/Ironskin_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Ironskin%20Potion.png">Ironskin Potion</a>
+</div>
+<div id="bosses"><h1>Bosses</h1>
+	<a href="https://terraria.gamepedia.com/Eater_of_Worlds"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text" style="color:#6d6aae">Screams echo around you...<br/><br/>This boss is only available on Corrupted worlds.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/Eater%20of%20Worlds.png">Eater of Worlds</a>
+	<a href="https://terraria.gamepedia.com/Brain_of_Cthulhu"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text" style="color:#9f3a3a">A horrible chill goes down your spine...<br/><br/>This boss is only available on Crimson worlds.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/Brain%20of%20Cthulhu.png">Brain of Cthulu</a>
+	<a href="https://terraria.gamepedia.com/Queen_Bee"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text" style="color:#30f97e">The matriarch of jungle hives...</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/Queen%20Bee.png">Queen Bee</a>
+	<a href="https://terraria.gamepedia.com/Skeletron"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text" style="color:#30f97e">The cursed guardian of the dungeon...</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/Skeletron.png">Skeletron</a>
+</div>
+<div id="notes">
+<div id="build_author">Marotheit</div>
+<div id="build_version">1.3.5.3</div>
+<div id="mixed_build_link"><a href="https://marotheit.github.io/Terraria-at-a-Glance/?game=terraria&content=mixed&progression=pre-skeletron">Click here to see the mixed build.</a></div>
+<h1>Notes<div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text">The Throwing build is not viable in Hardmode. After that point, this guide will be similar (if not identical) to the Ranged build.</span></div></h1>
+	By this point, your class build is starting to become more differentiated than simply using whatever you can find. While you can survive with <a href="https://terraria.gamepedia.com/Gold_armor">Gold armor</a> or <a href="https://terraria.gamepedia.com/Platinum_armor">Platinum armor</a>, you'll find that <a href="https://terraria.gamepedia.com/Fossil_armor">Fossil armor</a> is far more useful when relying on throwing weapons.
+</div>
