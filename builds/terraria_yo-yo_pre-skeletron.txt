@@ -2,7 +2,6 @@
 <div id="weapons"><h1>Weapons</h1>
 	<a href="https://terraria.gamepedia.com/Amazon"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Amazon.png">Amazon</a>
 	<a href="https://terraria.gamepedia.com/Valor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Valor.png">Valor</a>
-	<a href="https://terraria.gamepedia.com/Cascade"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Cascade.png">Cascade</a>
 	<a href="https://terraria.gamepedia.com/Code_1"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Code%201.png">Code 1</a>
 </div>
 <div id="armor"><h1>Armor</h1>
