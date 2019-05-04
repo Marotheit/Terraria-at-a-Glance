@@ -15,7 +15,7 @@
 </div>
 <div id="buffs"><h1>Buffs</h1>
 	<a href="https://terraria.gamepedia.com/Healing_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Healing%20Potion.png">Healing Potion</a>
-	<a href="https://terraria.gamepedia.com/Summoning_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Summoning%20Potion.png">Summoning_Potion</a>
+	<a href="https://terraria.gamepedia.com/Summoning_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Summoning%20Potion.png">Summoning Potion</a>
 </div>
 <div id="bosses"><h1>Bosses</h1>
 	<a href="https://terraria.gamepedia.com/Eater_of_Worlds"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text" style="color:#6d6aae">Screams echo around you...<br/><br/>This boss is only available on Corrupted worlds.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/Eater%20of%20Worlds.png">Eater of Worlds</a>
