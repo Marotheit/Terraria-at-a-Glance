@@ -1,49 +1,42 @@
 <div id="title"><a href="https://terraria.gamepedia.com/Guide:Class_setups#Pre-Bosses">Terraria Mixed Pre-Skeletron Build</a></div>
 <div id="weapons"><h1>Weapons</h1>
-	<a href="https://terraria.gamepedia.com/Gold_Broadsword"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Gold%20Broadsword.png">Gold Broadsword</a>
-	<a href="https://terraria.gamepedia.com/Platinum_Broadsword"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Platinum%20Broadsword.png">Platinum Broadsword</a>
-	<a href="https://terraria.gamepedia.com/Enchanted_Sword_(item)"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Enchanted%20Sword.png">Enchanted Sword</a>
-	<a href="https://terraria.gamepedia.com/Arkhalis"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Arkhalis.png">Arkhalis</a>
-	<a href="https://terraria.gamepedia.com/Starfury"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Starfury.png">Starfury</a>
-	<a href="https://terraria.gamepedia.com/Trident"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Trident.png">Trident</a>
-	<a href="https://terraria.gamepedia.com/Enchanted_Boomerang"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Enchanted%20Boomerang.png">Enchanted Boomerang</a>
-	<a href="https://terraria.gamepedia.com/Gold_Bow"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Gold%20Bow.png">Gold Bow</a>
-	<a href="https://terraria.gamepedia.com/Platinum_Bow"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Platinum%20Bow.png">Platinum Bow</a>
-	<a href="https://terraria.gamepedia.com/Ruby_Staff"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Ruby%20Staff.png">Ruby Staff</a>
-	<a href="https://terraria.gamepedia.com/Diamond_Staff"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Diamond%20Staff.png">Diamond Staff</a>
-	<a href="https://terraria.gamepedia.com/Water_Bolt"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Water%20Bolt.png">Water Bolt</a>
-	<a href="https://terraria.gamepedia.com/Grenade"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Grenade.png">Grenade</a>
-	<a href="https://terraria.gamepedia.com/Poisoned_Knife"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Poisoned%20Knife.png">Poisoned Knife</a>
+	<a href="https://terraria.gamepedia.com/Water_Bolt"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text">Although incredibly easy to acquire before even fighting a boss, Water Bolt can carry you all the way to Pre-Hardmode.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Water%20Bolt.png">Water Bolt</a>
+	<a href="https://terraria.gamepedia.com/Demon_Scythe"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text">While Demons and Voodoo Demons will be difficult to kill at this point in time, it is possible to acquire a Demon Scythe. The Demon Scythe will be prevalent into early Hardmode, making this a solid weapon to have this early.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Demon%20Scythe.png">Demon Scythe</a>
+	<a href="https://terraria.gamepedia.com/Blade_of_Grass"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Blade%20of%20Grass.png">Blade of Grass</a>
+	<a href="https://terraria.gamepedia.com/Arkhalis"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text">While incredibly rarely obtained from Enchanted Sword Shrines, Arkhalis can carry you all the way to Pre-Hardmode if obtained.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Arkhalis.png">Arkhalis</a>
+	<a href="https://terraria.gamepedia.com/Minishark"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Minishark.png">Minishark</a>
+	<a href="https://terraria.gamepedia.com/Hornet_Staff"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Hornet%20Staff.png">Hornet Staff</a>
+	<a href="https://terraria.gamepedia.com/Code_1"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Code%201.png">Code 1</a>
 </div>
 <div id="armor"><h1>Armor</h1>
 	<a href="https://terraria.gamepedia.com/Gold_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Gold%20armor.png">Gold armor</a>
 	<a href="https://terraria.gamepedia.com/Platinum_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Platinum%20armor.png">Platinum armor</a>
+	<a href="https://terraria.gamepedia.com/Crimson_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Crimson%20armor.png">Crimson armor</a>
+	<a href="https://terraria.gamepedia.com/Shadow_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Shadow%20armor.png">Shadow armor</a>
 </div>
 <div id="accessories"><h1>Accessories</h1>
 	<a href="https://terraria.gamepedia.com/Shackle"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Shackle.png">Shackle</a>
 	<a href="https://terraria.gamepedia.com/Aglet"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Aglet.png">Aglet</a>
 	<a href="https://terraria.gamepedia.com/Anklet_of_the_Wind"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Anklet%20of%20the%20Wind.png">Anklet of the Wind</a>
 	<a href="https://terraria.gamepedia.com/Band_of_Regeneration"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Band%20of%20Regeneration.png">Band of Regeneration</a>
-	<a href="https://terraria.gamepedia.com/Band_of_Starpower"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Band%20of%20Starpower.png">Band of Starpower</a>
 	<a href="https://terraria.gamepedia.com/Cloud_in_a_Bottle"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Cloud%20in%20a%20Bottle.png">Cloud in a Bottle</a>
 	<a href="https://terraria.gamepedia.com/Shiny_Red_Balloon"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Shiny%20Red%20Balloon.png">Shiny Red Balloon</a>
 	<a href="https://terraria.gamepedia.com/Hermes_Boots"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Hermes%20Boots.png">Hermes Boots</a>
 </div>
 <div id="buffs"><h1>Buffs</h1>
-	<a href="https://terraria.gamepedia.com/Campfires"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Cozy%20Fire.png">Cozy Fire</a>
-	<a href="https://terraria.gamepedia.com/Heart_Lantern"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Heart%20Lamp.png">Heart Lamp</a>
-	<a href="https://terraria.gamepedia.com/Well_Fed"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Well%20Fed.png">Well Fed</a>
-	<a href="https://terraria.gamepedia.com/Lesser_Healing_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Lesser%20Healing%20Potion.png">Lesser Healing Potion</a>
+	<a href="https://terraria.gamepedia.com/Healing_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Healing%20Potion.png">Healing Potion</a>
 	<a href="https://terraria.gamepedia.com/Regeneration_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Regeneration%20Potion.png">Regeneration Potion</a>
 	<a href="https://terraria.gamepedia.com/Ironskin_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Ironskin%20Potion.png">Ironskin Potion</a>
-	<a href="https://terraria.gamepedia.com/Archery_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Archery%20Potion.png">Archery Potion</a>
 </div>
 <div id="bosses"><h1>Bosses</h1>
-	<a href="https://terraria.gamepedia.com/King_Slime"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/King%20Slime.png">King Slime</a>
-	<a href="https://terraria.gamepedia.com/Eye_of_Cthulhu"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/Eye%20of%20Cthulhu.png">Eye of Cthulhu</a>
-	<a href="https://terraria.gamepedia.com/Eater_of_Worlds"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/Eater%20of%20Worlds.png">Eater of Worlds</a>
-	<a href="https://terraria.gamepedia.com/Brain_of_Cthulhu"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/Brain%20of%20Cthulhu.png">Brain of Cthulhu</a>
+	<a href="https://terraria.gamepedia.com/Eater_of_Worlds"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text" style="color:#6d6aae">Screams echo around you...<br/><br/>This boss is only available on Corrupted worlds.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/Eater%20of%20Worlds.png">Eater of Worlds</a>
+	<a href="https://terraria.gamepedia.com/Brain_of_Cthulhu"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text" style="color:#9f3a3a">A horrible chill goes down your spine...<br/><br/>This boss is only available on Crimson worlds.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/Brain%20of%20Cthulhu.png">Brain of Cthulu</a>
+	<a href="https://terraria.gamepedia.com/Queen_Bee"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text" style="color:#30f97e">The matriarch of jungle hives...</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/Queen%20Bee.png">Queen Bee</a>
+	<a href="https://terraria.gamepedia.com/Skeletron"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text" style="color:#30f97e">The cursed guardian of the dungeon...</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/bosses/Skeletron.png">Skeletron</a>
 </div>
-<div id="notes"><h1>Notes</h1>
-	By this point, you should be nearing your first boss encounter, <a href="https://terraria.gamepedia.com/King_Slime">King Slime</a>. Following this, the <a href="https://terraria.gamepedia.com/Eye_of_Cthulhu">Eye of Cthulhu</a> will follow soon after. Both bosses are not particularly difficult as long as you keep moving and have a ranged weapon that can be used to kite them. Be sure to use your buffs and potions and you should be just fine. Both <a href="https://terraria.gamepedia.com/Eater_of_Worlds">Eater of Worlds</a> (for Corruption worlds) and <a href="https://terraria.gamepedia.com/Brain_of_Cthulhu">Brain of Cthulhu</a> (for Crimson worlds) are gear checks more than anything else. Just be sure not to trap yourself in your fighting areas!
+<div id="notes">
+<div id="build_author">Marotheit</div>
+<div id="build_version">1.3.5.3</div>
+<h1>Notes</h1>
+	By this point, your class build is starting to become more differentiated than simply using whatever you can find. While <a href="https://terraria.gamepedia.com/Gold_armor">Gold armor</a> or <a href="https://terraria.gamepedia.com/Platinum_armor">Platinum armor</a> will get you through your next few bosses, <a href="https://terraria.gamepedia.com/Crimson_armor">Crimson armor</a> or <a href="https://terraria.gamepedia.com/Shadow_armor">Shadow armor</a> is the obvious next step in progression.
 </div>
