@@ -1,6 +1,11 @@
 function localTheme(){
-	var currentTheme = localStorage.getItem('theme');
-	document.getElementById('page_style').setAttribute('href', "https://gitcdn.link/repo/Marotheit/Terraria-at-a-Glance/master/stylesheets/"+currentTheme+".css");
+	if(localStorage.getItem('theme') === null){
+		localStorage.setItem('theme', 'dark');
+	}
+	if(localStorage.getItem('theme') == 'dark' || localStorage.getItem('theme') == 'light'){
+		var currentTheme = localStorage.getItem('theme');
+		document.getElementById('page_style').setAttribute('href', "https://gitcdn.link/repo/Marotheit/Terraria-at-a-Glance/master/stylesheets/"+currentTheme+".css");
+	}
 }
 
 function toggleTheme(){
