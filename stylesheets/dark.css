@@ -99,24 +99,6 @@ body{
 	padding: 20px;
 }
 
-#selection_field label{
-	color: rgba(0, 0, 0, 0.6);
-	background-color: #2a2a2e;
-	border: 1px solid rgba(84, 84, 87, 0.5);
-	border-radius: 4px;
-	width: 56px;
-	text-align: center;
-	padding: 6px 16px;
-	margin-top: 6px;
-	transition: all 0.2s ease-in-out;
-	display: inline-block;
-}
-
-#selection_field label:hover{
-	box-shadow: 0 0 2px 1px rgba(74, 74, 79, 0.8);
-	cursor: pointer;
-}
-
 #selection_field input{
 	border: 0;
 	clip: rect(0, 0, 0, 0);
@@ -133,6 +115,32 @@ body{
 #selection_field input:disabled + label{
 	background-color: #1b1b1f;
 	box-shadow: none;
+}
+
+#selection_field label{
+	color: rgba(0, 0, 0, 0.6);
+	background-color: #2a2a2e;
+	border: 1px solid rgba(84, 84, 87, 0.5);
+	border-radius: 4px;
+	width: 2.9vw;
+	height: 2.6vw;
+	text-align: center;
+	vertical-align: middle;
+	padding: 6px 16px;
+	margin-top: 6px;
+	transition: all 0.2s ease-in-out;
+	display: inline-block;
+}
+
+#selection_field label:hover{
+	box-shadow: 0 0 2px 1px rgba(74, 74, 79, 0.8);
+	cursor: pointer;
+}
+
+#selection_field img{
+	position: relative;
+	transform: translateY(-50%);
+	top: 50%;
 }
 
 #selection_title{
@@ -249,6 +257,11 @@ body{
 
 #relevant_build #weapons,#armor,#accessories,#buffs,#bosses h1{
 	padding: 12px 12px 0 12px;
+}
+
+#relevant_build #prefix{
+	font: bold 12px Arial, sans-serif;
+	padding: 12px 12px 12px 12px;
 }
 
 #relevant_build #build_author::before{
