@@ -1,18 +1,17 @@
 <div id="title"><a href="https://terraria.gamepedia.com/Guide:Class_setups#Pre-Bosses">Terraria Mixed Pre-Bosses Build</a></div>
 <div id="weapons"><h1>Weapons</h1>
-	<a href="https://terraria.gamepedia.com/Diamond_Staff"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Diamond%20Staff.png">Diamond Staff</a>
-	<a href="https://terraria.gamepedia.com/Water_Bolt"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Water%20Bolt.png">Water Bolt</a>
+	<a href="https://terraria.gamepedia.com/Water_Bolt"><div id="tooltip"><img src="images/rare.png"><span id="tooltip_text">This item is rare at this level of progression.<br/><br/><b>Water Bolt</b> can sometimes be acquired from the upper levels of the dungeon before defeating Skeletron. It is incredibly powerful this early in the game if you can manage your mana usage.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Water%20Bolt.png">Water Bolt</a>
+	<a href="https://terraria.gamepedia.com/Arkhalis"><div id="tooltip"><img src="images/rare.png"><span id="tooltip_text">This item is incredibly rare.<br/><br/><b>Arkhalis</b> can sometimes be acquired from Enchanted Sword Shrines underground. It is incredibly powerful this early in the game and can be used until early Hardmode if obtained.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Arkhalis.png">Arkhalis</a>
 	<a href="https://terraria.gamepedia.com/Enchanted_Boomerang"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Enchanted%20Boomerang.png">Enchanted Boomerang</a>
-	<a href="https://terraria.gamepedia.com/Enchanted_Sword_(item)"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Enchanted%20Sword.png">Enchanted Sword</a>
-	<a href="https://terraria.gamepedia.com/Starfury"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Starfury.png">Starfury</a>
-	<a href="https://terraria.gamepedia.com/Arkhalis"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Arkhalis.png">Arkhalis</a>
+	<a href="https://terraria.gamepedia.com/Wooden_Bow"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Wooden%20Bow.png">Wooden Bow</a>
+	<a href="https://terraria.gamepedia.com/Slime_Staff"><div id="tooltip"><img src="images/rare.png"><span id="tooltip_text">This item is incredibly rare.<br/><br/>The <b>Slime Staff</b> has a 1/10000 chance (in normal mode) to be dropped by Slimes and Slimed Zombies, making it one of the rarest weapons in the game.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Slime%20Staff.png">Slime Staff</a>
 	<a href="https://terraria.gamepedia.com/Grenade"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Grenade.png">Grenade</a>
 	<a href="https://terraria.gamepedia.com/Amazon"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Amazon.png">Amazon</a>
 </div>
 <div id="armor"><h1>Armor</h1>
 	<a href="https://terraria.gamepedia.com/Wood_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Wood%20armor.png">Wood armor</a>
 	<a href="https://terraria.gamepedia.com/Cactus_armor"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Cactus%20armor.png">Cactus armor</a>
-	<a href="https://terraria.gamepedia.com/Pumpkin_armor"><div id="tooltip"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/tooltip.png"><span id="tooltip_text">While undeniably better than Wood armor and Cactus armor, Pumpkin armor is only available prior to fighting the Eye of Cthulhu during the Halloween seasonal event.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Pumpkin%20armor.png">Pumpkin armor</a>
+	<a href="https://terraria.gamepedia.com/Pumpkin_armor"><div id="tooltip"><img src="images/tooltip.png"><span id="tooltip_text"><b>Pumpkin armor</b>, while undeniably better than Wood armor or Cactus armor, is only available prior to fighting the Eye of Cthulhu during the Halloween seasonal event.</span></div><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Pumpkin%20armor.png">Pumpkin armor</a>
 </div>
 <div id="accessories"><h1>Accessories</h1>
 	<a href="https://terraria.gamepedia.com/Shackle"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Shackle.png">Shackle</a>
@@ -26,6 +25,7 @@
 <div id="buffs"><h1>Buffs</h1>
 	<a href="https://terraria.gamepedia.com/Campfires"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Cozy%20Fire.png">Cozy Fire</a>
 	<a href="https://terraria.gamepedia.com/Well_Fed"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Well%20Fed.png">Well Fed</a>
+	<a href="https://terraria.gamepedia.com/Heart_Lantern"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Heart%20Lamp.png">Heart Lamp</a>
 	<a href="https://terraria.gamepedia.com/Healing_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Healing%20Potion.png">Healing Potion</a>
 	<a href="https://terraria.gamepedia.com/Regeneration_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Regeneration%20Potion.png">Regeneration Potion</a>
 	<a href="https://terraria.gamepedia.com/Ironskin_Potion"><img src="https://raw.githubusercontent.com/Marotheit/Terraria-at-a-Glance/master/images/items/Ironskin%20Potion.png">Ironskin Potion</a>
@@ -38,5 +38,5 @@
 <div id="build_author">Marotheit</div>
 <div id="build_version">1.3.5.3</div>
 <h1>Notes</h1>
-	When you first begin your journey, anything and everything you pick up will do, but your first priority should be <a href="https://terraria.gamepedia.com/Cactus_armor">Cactus armor</a> (or <a href="https://terraria.gamepedia.com/Pumpkin_armor">Pumpkin armor</a> if time allows) and a weapon. Ranged weapons will almost always perform better this early. As you approach your first boss, <a href="https://terraria.gamepedia.com/King_Slime">King Slime</a>, you'll want to begin moving towards the Pre-Skeletron build (even if you haven't quite defeated a boss yet) as many of the items can be acquired before fighting any bosses.
+	When you first begin your journey, anything and everything you pick up will do, but your first priority should be <a href="https://terraria.gamepedia.com/Cactus_armor">Cactus armor</a> (or <a href="https://terraria.gamepedia.com/Pumpkin_armor">Pumpkin armor</a> if time allows) and a weapon. Ranged weapons will almost always perform better this early.<br/><br/>As you approach your first boss, <a href="https://terraria.gamepedia.com/King_Slime">King Slime</a>, you'll want to begin moving towards the Pre-Skeletron build (even if you haven't quite defeated a boss yet) as many of the items can be acquired before fighting any bosses.
 </div>
