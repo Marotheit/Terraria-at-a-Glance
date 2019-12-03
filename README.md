@@ -1,5 +1,12 @@
 # Terraria at a Glance
 [Terraria at a Glance](https://marotheit.github.io/Terraria-at-a-Glance/) is a resource that can quickly and simply display information using game specific parameters to guide players through Terraria and its various mods. It was created to act as a single, quick reference page for Terraria information, useful for anyone with a second monitor or someone who wants to see their class build without too much clutter.
+
+## The Current State of Terraria at a Glance (Please Read)
+Shortly after this project was "released", Terraria: Journey's End was announced to the public as Terraria's penultimate update! Hooray!
+
+One of the main features of Terraria's 1.4 update is the addition (and more importantly, the rebalancing of) many, many items, which means that any builds created for the current release of Terraria must be updated after the release of Terraria 1.4. Creating builds for the website is not a difficult task, but one that requires a bit of legwork.
+
+That being said, ___This project has been placed on hold until Terraria 1.4 is released to the public.___ Afterwards, I look forward to resuming my work on this project. I just don't feel like creating 300+ builds by hand to do it all over again when the final update is just around the corner, ya feel? Thanks for your understanding, everyone. See you in 2020!
   
 ## Goals of the Terraria at a Glance project
 * Create an open-source resource for the Terraria community that players would find useful while trying out new class builds or mod.
